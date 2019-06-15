@@ -3,3 +3,8 @@ Its a crud app,
 With product details:
 1. Form - To enter product details.
 2. Sheet - Repository of all data ingested
+
+The application is based on CRUD.
+1. You need to install the dependencies to check the app using npm
+2. Technology used: Node/Express/Mysql/ Pug-template engine
+3. Port is hosted to localhost on 3000
